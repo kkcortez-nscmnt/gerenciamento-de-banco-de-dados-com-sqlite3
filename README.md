@@ -1,5 +1,5 @@
 Arquivos com finalidade didática de construção de CRUD com uso de sqlite3.
-Os passos foram separados em 10 arquivos para melhor assimilação do conteudo.git
+Os passos foram separados em 10 arquivos para melhor assimilação do conteudo.
 Entre os arquivos 00 e 10 são executados os seguintes passos:
 
 00 - Criação da base de dados e sua tabela (schema)  *clientes*. <p>
